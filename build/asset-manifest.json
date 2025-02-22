@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hackaton_Prototype/build/static/css/main.e6c13ad2.css",
+    "main.js": "/Hackaton_Prototype/build/static/js/main.73667863.js",
+    "static/js/453.688366ad.chunk.js": "/Hackaton_Prototype/build/static/js/453.688366ad.chunk.js",
+    "index.html": "/Hackaton_Prototype/build/index.html",
+    "main.e6c13ad2.css.map": "/Hackaton_Prototype/build/static/css/main.e6c13ad2.css.map",
+    "main.73667863.js.map": "/Hackaton_Prototype/build/static/js/main.73667863.js.map",
+    "453.688366ad.chunk.js.map": "/Hackaton_Prototype/build/static/js/453.688366ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.73667863.js"
+  ]
+}

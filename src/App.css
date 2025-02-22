@@ -13,6 +13,13 @@
   }
 }
 
+@media (max-width: 768px) {
+  .charts-container {
+    display: block;
+  }
+}
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
